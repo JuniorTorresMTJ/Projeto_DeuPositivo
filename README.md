@@ -8,10 +8,6 @@ Projeto de Análise de Dados Abertos da Saúde do Brasil (SUS)
 
 ##MODELO PREDITIVO PARA PREVER O ATIVAMENTO DO MOA E MODELO PARA PREVER O TRATAMENTO DO EXPERIMENTO
 
-Os dados falaram: Qualquer coisa me bota no Paredawn, eu como um bom Cientista de dados... fui lá coloquei e analisei!
-<p align= "center">
-<img src="https://github.com/JuniorTorresMTJ/Projeto_MoA_no_Paredawn/blob/main/image/paredawn.gif" min-width="300px" max-width="200px" width="300px" >
-</p>
 
 
 ###OBJETIVO
@@ -21,7 +17,7 @@ O objetivo desse projeto é a análisar os dados públicos da saúde, para foi u
 2. Segundo Objetivo: Criar uma Maquina preditiva que consiga prever se o experimento foi tratado com droga ou com_controle.
 
 
- ### **ESCOPO**
+### **ESCOPO**
  
  
 Antes, as descobertas de novos medicamentos eram feitas por tentativa e erro, portanto, com esse projeto, o objetivo é automatizar uma das partes do processo, pois conseguir
