@@ -97,16 +97,23 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
 
 ### **CONTATO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
 ***
+<p align="center"> <a  href="https://www.linkedin.com/in/marivaldotorres/">
+    <img alt="Junior Torres" width="250px"  src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/Perfil.png" />
+  </a>
+ </p>
+
+ <p align="center">
 <a  href="https://www.linkedin.com/in/marivaldotorres/">
-    <img align="left"alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/linkedin.png" />
+    <img align="center"alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/linkedin.png" />
   </a>
 
   <a href="https://www.instagram.com/callmejuniorr/">
-    <img align="left" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/instagram.png" />
+    <img align="center" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/instagram.png" />
   </a>
   <a href="mailto:juniortorres.mth@gmail.com">
-    <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/gmail.png" />
+    <img align="center" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/gmail.png" />
   </a>
+ </p>
 <br><br>
 
 
