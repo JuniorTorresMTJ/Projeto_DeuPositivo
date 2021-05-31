@@ -6,16 +6,11 @@ Projeto de Análise de Dados Abertos da Saúde do Brasil (SUS)
 </p>
 
 
-<p align= "center">O PRECONCEITO QUE MATA MAIS QUE A DOENÇA</p>
-
 
 
 ### **OBJETIVO**
 ***
 O objetivo desse projeto é a análisar os dados públicos da saúde, para foi utilizado os dados dos portadores de HIV
-
-1. Primeiro Objetivo: Criar uma Maquina preditiva que consiga prever se o experimento irá ativar um ou mais MoAs, com um F1-score maior que 80%.
-2. Segundo Objetivo: Criar uma Maquina preditiva que consiga prever se o experimento foi tratado com droga ou com_controle.
 
 
 ### **ESCOPO**
