@@ -78,7 +78,7 @@ Portanto, graças ao SUS podemos ver que a os casos de HIV/AIDS vem diminuindo m
 </p>
 
 <p align= "left">
-Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
+Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 </p>
 
 
@@ -110,11 +110,13 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
   <a href="https://www.instagram.com/callmejuniorr/">
     <img align="center" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/instagram.png" />
   </a>
-  <a href="mailto:juniortorres.mth@gmail.com">
+  <a href="mailto:juniortorres.mtj@gmail.com">
     <img align="center" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/gmail.png" />
   </a>
+  <a href="https://github.com/JuniorTorresMTJ">
+    <img align="center" alt="Junior Torres | Github" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/github.svg" />
+  </a>
  </p>
-<br><br>
 
 
 ### **FONTES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
