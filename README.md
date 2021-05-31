@@ -86,7 +86,7 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
 
 *   **df_escolaridade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por escolariadade por ano. <BR>
 *   **df_etária** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por faixa etária por ano. <BR>
-*   **df_raca **= Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por por raça. <BR>
+*   **df_raca** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por por raça. <BR>
 *   **df_sexo** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por sexo por ano.<BR>
 *   **df_sexualidade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por orientação sexual e estado.<BR>
 *   **df_sex_evo** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por orientação sexual por ano.<BR>
