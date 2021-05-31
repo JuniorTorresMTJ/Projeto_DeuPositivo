@@ -48,8 +48,19 @@ O projeto está estruturado da seguinte forma: <br>
    * Criação das Visualizações
    * Conclusão
 </div>
-O projeto foi desenvolvido de uma forma linear, então mostro todo o processo de pensamento e tratamento dos dados até chegar a conclusão.<br>
-<br>
+
+
+### **HIPÓTESES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
+***
+1.   Em 2019 teve mais casos de HIV em homossexuais do que em heterossexuais.
+2.   Na década de 90 os Homossexuais foram os que mais  adquiriram HIV/AIDS.
+3.   A maioria dos casos de HIV/AIDS são em pessoas pardas.
+4.   Os novos casos de HIV/AIDS ocorrem mais em pessoas com 1° a 4 ° série incompletas.
+5.   Pessoas do sexo masculino adquirem mais HIV que pessoas do sexo feminino.
+6.   Jovens de 20-34 anos são os que mais são contaminados pelos vírus do HIV.
+7.   Menos Pessoas morrem de AIDS comparando com a quantidade de óbitos em 2008.
+8.   Os gastos com o Tratamento de HIV/AIDS diminuiram 20% desde 2008.
+
 
 ### **CONCLUSÕES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
 ***
@@ -71,6 +82,19 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
 </p>
 
 
+### **BASES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
+***
+
+*   **df_escolaridade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por escolariadade por ano. <BR>
+*   **df_etária** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por faixa etária por ano. <BR>
+*   **df_raca **= Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por por raça. <BR>
+*   **df_sexo** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por sexo por ano.<BR>
+*   **df_sexualidade** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por orientação sexual e estado.<BR>
+*   **df_sex_evo** = Conjunto de dados que possui os dados de quantidade de diagnóstico de HIV por orientação sexual por ano.<BR>
+*   **df_gastos** = Conjunto de dados que possui os dados de quantidade de gastos em tratamento de HIV/AIDS por ano.
+*   **df_obitos** = Conjunto de dados que possui os dados de quantidade mortes com Tratamento de HIV/AIDS
+
+
 ### **CONTATO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
 ***
 <a  href="https://www.linkedin.com/in/marivaldotorres/">
@@ -84,6 +108,7 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
     <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/gmail.png" />
   </a>
 <br><br>
+
 
 ### **FONTES** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
 ***
