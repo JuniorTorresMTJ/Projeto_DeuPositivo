@@ -68,7 +68,8 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
     <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" />
   </a>
 <br><br>
-### **REFERENCIAS / AGRADECIMENTOS**
+
+### **FONTES**
 ***
  - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Alura: [Link](https://www.alura.com.br/)
 
