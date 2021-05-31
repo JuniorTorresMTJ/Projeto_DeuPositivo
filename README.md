@@ -20,10 +20,11 @@ Antes, as descobertas de novos medicamentos eram feitas por tentativa e erro, po
 
 ### **SOBRE O PROJETO**
 ***
-<div align = "left">
-O projeto está estruturado da seguinte forma: 
- 
+
 [Projeto DeuPositivo](https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/notebook/Projeto_DeuPositivo.ipynb)
+
+<div align = "left">
+O projeto está estruturado da seguinte forma: <br>
  
    * Objetivo
    * Introdução
