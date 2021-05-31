@@ -54,21 +54,21 @@ Qualquer feedback, elogio, sugestão de melhoria eu ficaria muito grato!
 ### **CONTATO**
 ***
 <a  href="https://www.linkedin.com/in/marivaldotorres/">
-    <img align="left"alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/linkedin.svg" />
+    <img align="left"alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/linkedin.png" />
   </a>
 
   <a href="https://www.instagram.com/callmejuniorr/">
-    <img align="left" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/instagram.svg" />
+    <img align="left" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/instagram.png" />
   </a>
   <a href="mailto:juniortorres.mth@gmail.com">
-    <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/gmail.svg" />
+    <img align="left" alt="Junior Torres | Gmail" width="26px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/gmail.png" />
   </a>
 <br><br>
 
 ### **FONTES**
 ***
- - <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Alura: [Link](https://www.alura.com.br/)
+ <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> Alura: [Link](https://www.alura.com.br/)
 
-- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" />  Imersão Dados: [Link](https://www.alura.com.br/imersao-dados)
+<img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" />  Imersão Dados: [Link](https://www.alura.com.br/imersao-dados)
 
-- <img width="20px" src="https://github.com/JuniorTorresMTJ/JuniorTorresMTJ/blob/master/image/flash.svg" /> Fonte dos Dados: [Kaggle](https://www.kaggle.com/c/lish-moa/overview/description)
+<img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> Fonte dos Dados: [Kaggle](https://www.kaggle.com/c/lish-moa/overview/description)
