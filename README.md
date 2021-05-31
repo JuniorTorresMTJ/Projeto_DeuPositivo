@@ -2,8 +2,9 @@
 Projeto de Análise de Dados Abertos da Saúde do Brasil (SUS)
 
 <p align= "center">
-<img src="https://github.com/JuniorTorresMTJ/temp/blob/main/image/DEU_POSITIVO.png" min-width="300px" max-width="200px" width="750px" >
+<img src="https://github.com/JuniorTorresMTJ/temp/blob/main/image/DEU_POSITIVO.png" min-width="300px" max-width="200px" width="750px" > <br>O PRECONCEITO QUE MATA MAIS QUE A DOENÇA
 </p>
+ 
 
 
 
@@ -15,7 +16,15 @@ O objetivo desse projeto é a análisar os dados públicos da saúde, foi utiliz
 ### **ESCOPO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
 ***
  
-Antes, as descobertas de novos medicamentos eram feitas por tentativa e erro, portanto, com esse projeto, o objetivo é automatizar uma das partes do processo, pois conseguir
+“Sabe quando as pessoas falam sobre HIV? Uma vez por ano, no Dia Mundial da Luta Contra a Aids”, resume a professora de inglês Aurea Carolina Coelho More, que convive com o vírus há mais de 12 anos.
+
+Ouvir/ler deu positivo, dependendo do seu repertório,  suponho que você deve estar pensando que eu estou falando de gravidez né? Para muitos é uma benção e para outros um Deus me livre, mas não, mais 900 mil pessoas vivem com HIV no Brasil e quando essas pessoas fizeram o teste elas ouviram: ***Deu Positivo***. 
+
+<p align= "center">
+<img  src="https://empoderadxs.com.br/wp-content/uploads/2018/12/xaids.jpg.pagespeed.ic_.0sTkZeTA22-300x169.jpg" /> 
+</p>
+
+Você acha que HIV/AIDS está relacionado a homossexualidade? HIV/AIDS atinge só homossexuais? o objetivo desse estudo é desmistificar esse pensamento dos anos 80 igual a imagem acima. 
 
  ### **SOBRE O PROJETO** <img width="20px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/red-ribbon.png" /> 
 ***
