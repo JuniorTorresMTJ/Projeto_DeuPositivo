@@ -106,7 +106,7 @@ Qualquer feedback, elogio ou sugestão de melhoria eu ficaria muito grato!
     <img align="center"alt="Junior Torres | Linkedin" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/linkedin.png" />
   </a>
 
-  <a href="https://www.instagram.com/callmejuniorr/">
+  <a href="https://www.instagram.com/juniortorres.py/">
     <img align="center" alt="Junior Torres | Instagram" width="24px" src="https://github.com/JuniorTorresMTJ/Projeto_DeuPositivo/blob/main/image/instagram.png" />
   </a>
   <a href="mailto:juniortorres.mtj@gmail.com">
